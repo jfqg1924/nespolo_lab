@@ -58,4 +58,4 @@ undergraduate students. Currently he is working on molecular and physiological a
 using the hibernating marsupial Dromiciops gliroides ("mountain monkey") as a biological model (Fondecyt), in addition to
 having an applied line of native yeast genetics with potential for craft brewery ( FIC).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Julian Quintero_Español_julio_2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
