@@ -21,10 +21,10 @@ weight = 60
 Research Associate, Universidad Austral de Chile 
 
 
-# Current Graduate Students
-- Current: Carlos Mejias		(Msc science mention Ecology, UACH)
-- Current: Macarena Alvarado 	(Veterinarian, UACH)
-- Current: Claudia Pereira 	    (Veterinarian, UACH)
+# Current Students
+- Carlos Mejias		(Msc science mention Ecology, UACH)
+- Macarena Alvarado 	(Veterinarian, UACH)
+- Claudia Pereira 	    (Veterinarian, UACH)
 
 # Past Students
 
@@ -46,10 +46,10 @@ Research Associate, Universidad Austral de Chile
 
 
 ## Doctorate
-- 2008: 	Paulina Artacho		(PhD in Systematics and Ecology, UACH)
-- 2009: 	Luis Castañeda		(PhD in Systematics and Ecology, UACH)
-- 2012: 	[Juan Diego Gaitan		(PhD in Systematics and Ecology, UACH)](https://sites.google.com/site/jdgecv/)
-- 2011: 	Rodrigo Scheihing		(PhD in Systematics and Ecology, UACH)
+- 2008: Paulina Artacho		(PhD in Systematics and Ecology, UACH)
+- 2009: Luis Castañeda		(PhD in Systematics and Ecology, UACH)
+- 2012: [Juan Diego Gaitan		(PhD in Systematics and Ecology, UACH)](https://sites.google.com/site/jdgecv/)
+- 2011: Rodrigo Scheihing		(PhD in Systematics and Ecology, UACH)
 - 2013:	José Luis Bartheld 		(PhD in Systematics and Ecology, UACH)
 - 2014:	Pablo Cortés 			(PhD in Ecology and Evolution, UACH)
 - 2019:	Jaiber Solano Iguaran		(PhD in Ecology and Evolution, UACH)
