@@ -17,10 +17,10 @@ main:
     url: '#talks'
     weight: 40
   - name: Publications
-    url: '#featured'
+    url: '#papers'
     weight: 50
   - name: San Martin 
-    url: '#featured'
+    url: '#san_martin'
     weight: 50
   - name: Contact
     url: '#contact'
