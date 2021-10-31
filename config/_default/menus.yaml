@@ -11,15 +11,15 @@ main:
     url: '#projects'
     weight: 30
   - name: Publications
-    url: '#papers'
-    weight: 50
+    url: '/publication/papers'
+    weight: 60
   - name: San Martin 
     url: '#san_martin'
     weight: 50
   - name: People 
     url: '#miembros'
-    weight: 50    
+    weight: 20    
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 130
     
