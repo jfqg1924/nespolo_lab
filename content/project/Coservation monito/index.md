@@ -1,13 +1,17 @@
 ---
-date: "2021-10-27T00:00:00Z"
-external_link: http://example.org
+title: "Proyecto Conservacion del monito del monte"
+summary: "Conservacion monito, proyecto casitas anideras"
+author: "Roberto Nespolo"
+date: "2021-10-01"
+# Header image (featured.png)
 image:
-  caption: 
-  focal_point: Smart
-summary: Propuesta
-tags:
-- Demo
-title: Proyecto Conservacion del monito del monte
+  caption: "Image credit: Roberto Nespolo"
+  focal_point: "Smart"
+  alt_text: "The monito"
+tags: ["Dromiciops","monito del monte"]
+weight: 1
+
+
 ---
 
 # Propuesta 
