@@ -46,11 +46,11 @@ Research Associate, Universidad Austral de Chile
 
 
 ## Doctorate
-- 2008: Paulina Artacho		(PhD in Systematics and Ecology, UACH)
+- 2008: [Paulina Artacho		(PhD in Systematics and Ecology, UACH)](https://scholar.google.com/citations?user=lZemS60AAAAJ&hl=es)
 - 2009: [Luis Castañeda		(PhD in Systematics and Ecology, UACH)](https://sites.google.com/site/lecastane/)
 - 2012: [Juan Diego Gaitan		(PhD in Systematics and Ecology, UACH)](https://sites.google.com/site/jdgecv/)
 - 2011: Rodrigo Scheihing		(PhD in Systematics and Ecology, UACH)
-- 2013:	José Luis Bartheld 		(PhD in Systematics and Ecology, UACH)
+- 2013:	[José Luis Bartheld 		(PhD in Systematics and Ecology, UACH)](https://scholar.google.com/citations?hl=es&user=mfDhssoAAAAJ&view_op=list_works&sortby=pubdate)
 - 2014:	[Pablo Cortés 			(PhD in Ecology and Evolution, UACH)](https://investigadores.anid.cl/es/public_search/researcher?id=31622)
 - 2019:	[Jaiber Solano Iguaran		(PhD in Ecology and Evolution, UACH)](https://www.researchgate.net/profile/Jaiber-J-Solano-Iguaran)
 - 2021:	[Julian F. Quintero Galvis 	(PhD in Ecology and Evolution, UACH)](https://julianquinterog.netlify.app/)
