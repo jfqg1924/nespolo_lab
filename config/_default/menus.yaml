@@ -8,13 +8,13 @@ main:
     url: '#about'
     weight: 10
   - name: Projects
-    url: '#projects'
+    url: 'projects/'
     weight: 30
   - name: Publications
     url: '/publication/papers'
     weight: 60
   - name: San Martin 
-    url: '#san_martin'
+    url: 'san_martin/'
     weight: 50
   - name: People 
     url: '#miembros'
