@@ -2,10 +2,10 @@
 bio: 
 education:
   courses:
-  - course: PhD in Biological Science, Ecology
+  - course: PhD in Biological Sciences, Ecology
     institution: Pontificia Universidad Católica de Chile, Chile 
     year: 2002
-  - course: Biologits
+  - course: Biologist
     institution: Universidad de Chile, Chile
     year: 1996
 email: ""
@@ -40,9 +40,9 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Roberto-Nespolo
-#- icon: orcid
-#  icon_pack: fab
-#  link: https://orcid.org/0000-0001-9337-0606
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-0825-9618
 
 superuser: true
 title: Roberto F. Nespolo
