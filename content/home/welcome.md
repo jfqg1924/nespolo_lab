@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  Nespolo 
+  Dromiciops 
   Research Group
 hero_media: welcome.jpg
 design:
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Nespolo Research Group** is a group studying the biology of a relict mammal, *Dromiciops gliroides* using landscape genomics, physiology and isotopic ecology
+The **Dromiciops Research Group** is a group studying the biology of a relict mammal, *Dromiciops gliroides* using landscape genomics, physiology and isotopic ecology
