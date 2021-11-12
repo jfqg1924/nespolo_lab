@@ -1,7 +1,7 @@
 ---
 authors:
-- admin
 - Carlos Mejías
+- admin
 categories: []
 date: "2021-11-12T00:00:00Z"
 image:
