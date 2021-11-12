@@ -22,6 +22,9 @@ main:
     weight: 40    
   - name: Post
     url: '#posts'
+    weight: 80   
+  - name: Gallery
+    url: '/gallery'
     weight: 80    
   - name: Contact
     url: '#contact'
