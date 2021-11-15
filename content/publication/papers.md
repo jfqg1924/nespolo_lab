@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = 2021-10-20T00:00:00
+date = 2021-11-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Publications"
@@ -17,11 +17,18 @@ weight = 60
 
 # Journal Articles
 
-- 116. GIROUD S, K., HABOLD, C., **NESPOLO, R. F.**, MEJIAS C, TERRIEN, T., LOGAN S, HENNINING R & STORY K (2020). The torpid state: Recent advances in metabolic adaptations and protective mechanisms. Frontiers in Physiology. 11: 623665. doi: 10.3389/fphys.2020.623665
-- 115. URBINA, K., VILLARREAL, P., **NESPOLO, R. F.**, SALAZAR, R., SANTANDER, R., & CUBILLOS, F. A. (2020). Volatile Compound Screening Using HS-SPME-GC/MS on Saccharomyces eubayanus Strains under Low-Temperature Pilsner Wort Fermentation. Microorganisms, 8(5), 755. doi:10.3390/microorganisms8050755
-- 114. **NESPOLO, R. F.**, VILLARROEL, C. A., OPORTO, C. I., TAPIA, S. M., VEGA-MACAYA, F., URBINA, K., … CUBILLOS, F. A. (2020). An Out-of-Patagonia migration explains the worldwide diversity and distribution of Saccharomyces eubayanus lineages. PLoS Genetics, 16(5), e1008777. doi:10.1371/journal.pgen.1008777
-- 113. QUINTERO-GALVIS, J. F., SAENZ-AGUDELO, P., CELIS-DIEZ, J. L., AMICO, G. C., VAZQUEZ, S., SHAFER, A. B. A., & **NESPOLO, R. F.** (2020). The Biogeography of Dromiciops in Southern South America: middle Miocene transgressions, speciation and associations with Nothofagus Short running title: Phylogeography of Dromiciops. BioRxiv, 2020.08.12.207332. doi:10.1101/2020.08.12.207332
-- 112. **NESPOLO, R. F.**, FONTÚRBEL, F., MEJIAS, C., CONTRERAS, R., GUTIERREZ, P., RUIZ, J., … BOZINOVIC, F. (2020). A mesocosm experiment in ecological physiology: adaptive modulation of energy budget in a hibernating marsupial under chronic caloric restriction. BioRxiv, 2020.06.05.136028. doi:10.1101/2020.06.05.136028
+
+- 122. **NESPOLO, R. F.** FONTÚRBEL, F., MEJIAS, C., CONTRERAS, R., GUTIERREZ, P. ODA E, SABAT P, HAMBLY C, SPEKMAN JR, BOZINOVIC, F. (2021). A Mesocosm Experiment in Ecological Physiology: The Modulation of Energy Budget in a Hibernating Marsupial under Chronic Caloric Restriction. Physiological and Biochemical Zoology. (Accepted)
+- 121. VILLARREAL, P, QUINTREL PA, OLIVARES-MUÑOZ, RUIZ J, **NESPOLO, R. F.**& CUBILLOS, F. A. (2021). Identification of new ethanol‐tolerant yeast strains with fermentation potential from central Patagonia. Yeast. doi.org/10.1002/yea.3662
+- 120. MARDONES, W., VILLARROEL, C.A., ABARCA V, URBINA, K., PEÑA T, MOLINET J, **NESPOLO, R. F.** & CUBILLOS, F. A. (2021). Rapid selection response to ethanol in Saccharomyces eubayanus emulates the domestication process under brewing conditions. Microbial Biotechnology, 1–18. doi.org/10.1111/1751-7915.13803
+- 119. SABAT P, NEWSOME S, PINOCHET S, **NESPOLO, R. F.**, SANCHEZ-HERNANDEZ J, MADONADO K, GERSON A, SHARP Z, WHITEMAN JP. (2021). Triple Oxygen Isotope Measurements (Δ'17O) of Body Water Reflect Water Intake, Metabolism, and δ18O of Ingested Water in Passerines. Frontiers in Physiology.doi.org/10.3389/fphys.2021.710026
+- 118. **NESPOLO, R. F.**, MEJÍAS, C., ESPINOZA, A., QUINTERO-GALVIS, J. F., REZENDE, E. L., FONTÚRBEL, F. E., & BOZINOVIC, F. (2021). Heterothermy as the Norm, Homeothermy as the Exception: Variable Torpor Patterns in the South American Marsupial Monito del Monte (Dromiciops gliroides). Frontiers in Physiology. doi:10.3389/fphys.2021.682394.
+- 117. MEJIAS, C., CASTRO-PASTENE, C., CARRASCO, H., QUINTERO‐GALVIS, J. F., SOTO-GAMBOA, M., BOZINOVIC, F., & **NESPOLO, R. F.**. (2021). Natural history of the relict marsupial Monito del Monte at the most extreme altitudinal and latitudinal location. Ecosphere, 9639. doi:10.1002/ecs2.3577
+- 116. **NESPOLO, R. F.**, MEJÍAS, C., ESPINOZA, A., QUINTERO-GALVIS, J. F., REZENDE, E. L., FONTÚRBEL, F. E., & BOZINOVIC, F. (2021). Heterothermy as the Norm, Homeothermy as the Exception: Variable Torpor Patterns in the South American Marsupial Monito del Monte (Dromiciops gliroides). Frontiers in Physiology. doi:10.3389/fphys.2021.682394.
+- 115. QUINTERO-GALVIS, J. F., SAENZ-AGUDELO, P., CELIS-DIEZ, J. L., AMICO, G. C., VAZQUEZ, S., SHAFER, A. B. A., & **NESPOLO, R. F.** (2020). The Biogeography of Dromiciops in Southern South America: middle Miocene transgressions, speciation and associations with Nothofagus Short running title: Phylogeography of Dromiciops. Molecular Phylogenetics and Evolution, 163, 107234. doi:10.1016/j.ympev.2021.107234
+- 114. GIROUD S, K., HABOLD, C., **NESPOLO, R. F.**, MEJIAS C, TERRIEN, T., LOGAN S, HENNINING R & STORY K (2020). The torpid state: Recent advances in metabolic adaptations and protective mechanisms. Frontiers in Physiology. 11: 623665. doi: 10.3389/fphys.2020.623665
+- 113. URBINA, K., VILLARREAL, P., **NESPOLO, R. F.**, SALAZAR, R., SANTANDER, R., & CUBILLOS, F. A. (2020). Volatile Compound Screening Using HS-SPME-GC/MS on Saccharomyces eubayanus Strains under Low-Temperature Pilsner Wort Fermentation. Microorganisms, 8(5), 755. doi:10.3390/microorganisms8050755
+- 112. **NESPOLO, R. F.**, VILLARROEL, C. A., OPORTO, C. I., TAPIA, S. M., VEGA-MACAYA, F., URBINA, K., … CUBILLOS, F. A. (2020). An Out-of-Patagonia migration explains the worldwide diversity and distribution of Saccharomyces eubayanus lineages. PLoS Genetics, 16(5), e1008777. doi:10.1371/journal.pgen.1008777
 - 111. **NESPOLO, R. F.**, SOLANO‐IGUARAN, J. J., PALEO‐LÓPEZ, R., QUINTERO‐GALVIS, J. F., CUBILLOS, F. A., & BOZINOVIC, F. (2020). Performance, genomic rearrangements, and signatures of adaptive evolution: Lessons from fermentative yeasts. Ecology and Evolution. ece3.6208. doi:10.1002/ece3.6208
 - 110. MARDONES, W., VILLARROEL, C.A., KROGERUS, K., TAPIA, S.M., URBINA, K., OPORTO, C.I., **NESPOLO, R. F.** & CUBILLOS, F. A. 2020. Molecular profiling of beer wort fermentation diversity across natural Saccharomyces eubayanus isolates. Microbial Biotechnology, 13(4), 1012–1025. doi:10.1111/1751-7915.13545
 - 109. REZENDE E.L, BACIGALUPE L.D, **NESPOLO, R. F.** & BOZINOVIC F, (2020). Shrinking dinosaurs and the evolution of endothermy in birds. Science Advances, 6(1), eaaw4486. doi:10.1126/sciadv.aaw4486
@@ -133,4 +140,18 @@ Journal of Insect Physiology 57: 986-994.
 - 3. **NESPOLO, R. F.** & M ROSENMANN (1997) Historia térmica de roedores: una aproximación experimental. Revista Chilena de Historia Natural  70: 363 - 370.
 - 2. BOZINOVIC F &  **RF NESPOLO** (1997) Effect of ambient temperature and energy demands on digestive functions in leaf-eared mice (Phyllotis darwini) from central Chile. International  Journal of  Biometeorology 41: 23 - 25.
 - 1. BOZINOVIC F, FF NOVOA & **R NESPOLO** (1997) Effect of dietary composition on food selection and assimilation in the leaf eared mouse (Phillotys darwini) inhabiting central Chile. Revista Chilena de Historia Natural  70: 289 - 295.
+
+
+
+# Chapter Book
+
+- 5. SOTO-GAMBOA M, LAGOS N, QUIROZ E, JARAMILLO E, **RF NESPOLO** , CASANOVA-KATNY A (2007). On the causes of the disappearance of aquatic plant Egeria densa and black-necked swans in a Ramsar sanctuary: inappropriate statistical analyses, reduced scope of experimental design and the implausible chemical mechanisms proposed by Mulsow & Grandjean (2006). Ethics in Science and Environmental Politics 2007: 7-10.
+
+- 4. GUERRA, J., GAYOSO, J., SCHLATTER, J., **RF NESPOLO** (2005) Análisis de la biomasa de raíces en diferentes tipos de bosques. Avances en la evaluación de Pinus radiata en Chile. Bosque 26: 5-21.
+
+- 3. **RF NESPOLO**  (2003) Genética cuantitativa y microevolución the caracteres fisiológicos. En: “Fisiología Ecológica de plantas y animales en Sudamérica: estudios interdisciplinarios” (F. Bozinovic Ed.). Pp. 27-42. Ediciones Universidad Católica de Chile. Santiago, Chile.
+
+- 2. **RF NESPOLO**  (2003) Termorregulación, vicuñas y esquila: un análisis exploratorio desde la fisiología comparada. En “Plan Nacional de Conservación y Manejo de la Vicuña (Vicugna vicugna Molina, 1782) en Chile” (Galaz, JL & Gonzáles, G Eds.) Pp 43-54, OGRAMA SA. Santiago, Chile.
+
+- 1. SOTO-GAMBOA M & **RF NESPOLO** (1997) Desarrollo de la homeotermia en dos aves antárticas: el efecto de la deprivación de ingesta. Serie Científica INACH 47: 31 - 37.
 

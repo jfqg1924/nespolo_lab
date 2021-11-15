@@ -23,8 +23,11 @@ Research Associate, Universidad Austral de Chile
 
 # Current Students
 - [Carlos Mejias		(Msc science mention Ecology, UACH)](https://www.researchgate.net/profile/Carlos-Mejias-3)
-- Macarena Alvarado 	(Veterinarian, UACH)
 - Claudia Pereira 	    (Veterinarian, UACH)
+- Isabella Peña Rocco			(Veterinarian, UACH)
+- Maite Villalobos Avedaño		(Veterinarian, UACH)
+- Constanza Torres Ulloa		(Veterinarian, UACH)
+
 
 # Past Students
 
@@ -36,7 +39,8 @@ Research Associate, Universidad Austral de Chile
 - 2019: Pablo Quintrel            (Ing. Biotechnology, USACH) 
 - 2020: Sebastian Flores         (Ing. Biotechnology, USACH) 
 - 2020: Rodrigo Contreras 	(Veterinarian, UACH)
-- 2021: Paulina 	(Ing. Forestal, UACH) 
+- 2021: Paulina Gutiérrez   (Natural Resources Conservation Engineer, UACH) 
+- 2021:  Macarena Alvarado 	(Veterinarian, UACH)
 
 
 ## Master 
@@ -56,5 +60,8 @@ Research Associate, Universidad Austral de Chile
 - 2021:	[Julian F. Quintero Galvis 	(PhD in Ecology and Evolution, UACH)](https://julianquinterog.netlify.app/)
 
 
+## Post-doc advisoring
 
-
+- 2012: Paulina Artacho (funded by FONDECYT)
+- 2012: Marcela Franco (funded by FONDECYT)
+- 2011: [Luis Castañeda](https://sites.google.com/site/lecastane/)(funded by FONDECYT)
