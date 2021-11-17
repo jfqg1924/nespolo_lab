@@ -65,6 +65,7 @@ No olvides que está estrictamente prohibida la tenencia de animales silvestres 
 Contacto personal Lab. Evolución Experimental: 
 * carlosignacio.mejias@gmail.com / Instagram: @carlosinhacio
 * robertonespolorossi@gmail.com
+* [Ladera Sur](https://laderasur.com/articulo/el-monito-del-monte-un-campeon-del-ahorro-energetico/)
 
 
 
