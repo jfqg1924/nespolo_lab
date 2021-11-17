@@ -14,7 +14,7 @@ main:
     url: '/publication/papers'
     weight: 60
   - name: San Martin 
-    url: 'san_martin/'
+    url: '/san_martin/'
     weight: 50
   - name: People 
     url: '#miembros'
