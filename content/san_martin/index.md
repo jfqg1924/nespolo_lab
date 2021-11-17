@@ -26,8 +26,8 @@ especialidad. BSM promoverá también actividades de educación ambiental a nive
 
 
 _Aves representativas de BSM. Fuente_: Mauricio Soto.(De arriba izquierda a derecha:
-**Campephilus magellanicus**, **Enicognathus ferrugineus**, **Anairetes parulus**,**Glaucidium nana**,
-**Xolmis pyrope**, **Scytalopus magellanicus**, **Pardirallus sanguinolentus**, **Aphrastura spinicauda**, **Pygarrhichas albogularis**)
+_Campephilus magellanicus_, _Enicognathus ferrugineus_, _Anairetes parulus_,_Glaucidium nana_,
+_Xolmis pyrope_, _Scytalopus magellanicus_, _Pardirallus sanguinolentus_, _Aphrastura spinicauda_, _Pygarrhichas albogularis_)
 
 ![](aves.png)
 
