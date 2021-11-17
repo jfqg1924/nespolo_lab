@@ -16,7 +16,7 @@ unido a la cercanía a Valdivia hacen de BSM un enclave con características ún
 
 _Mapa de la Estacion Experimental de San Martin_ 
 
-![](PLANO.jpg)
+![](Mapa_SM.jpg)
 
 
 #  <span style="color:green">  Mision 
