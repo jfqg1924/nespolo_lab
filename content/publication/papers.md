@@ -145,13 +145,9 @@ Journal of Insect Physiology 57: 986-994.
 
 # Chapter Book
 
-- 5. SOTO-GAMBOA M, LAGOS N, QUIROZ E, JARAMILLO E, **RF NESPOLO** , CASANOVA-KATNY A (2007). On the causes of the disappearance of aquatic plant Egeria densa and black-necked swans in a Ramsar sanctuary: inappropriate statistical analyses, reduced scope of experimental design and the implausible chemical mechanisms proposed by Mulsow & Grandjean (2006). Ethics in Science and Environmental Politics 2007: 7-10.
-
+- 5. SOTO-GAMBOA M, LAGOS N, QUIROZ E, JARAMILLO E, **RF NESPOLO**, CASANOVA-KATNY A (2007). On the causes of the disappearance of aquatic plant Egeria densa and black-necked swans in a Ramsar sanctuary: inappropriate statistical analyses, reduced scope of experimental design and the implausible chemical mechanisms proposed by Mulsow & Grandjean (2006). Ethics in Science and Environmental Politics 2007: 7-10.
 - 4. GUERRA, J., GAYOSO, J., SCHLATTER, J., **RF NESPOLO** (2005) Análisis de la biomasa de raíces en diferentes tipos de bosques. Avances en la evaluación de Pinus radiata en Chile. Bosque 26: 5-21.
-
 - 3. **RF NESPOLO**  (2003) Genética cuantitativa y microevolución the caracteres fisiológicos. En: “Fisiología Ecológica de plantas y animales en Sudamérica: estudios interdisciplinarios” (F. Bozinovic Ed.). Pp. 27-42. Ediciones Universidad Católica de Chile. Santiago, Chile.
-
 - 2. **RF NESPOLO**  (2003) Termorregulación, vicuñas y esquila: un análisis exploratorio desde la fisiología comparada. En “Plan Nacional de Conservación y Manejo de la Vicuña (Vicugna vicugna Molina, 1782) en Chile” (Galaz, JL & Gonzáles, G Eds.) Pp 43-54, OGRAMA SA. Santiago, Chile.
-
 - 1. SOTO-GAMBOA M & **RF NESPOLO** (1997) Desarrollo de la homeotermia en dos aves antárticas: el efecto de la deprivación de ingesta. Serie Científica INACH 47: 31 - 37.
 
