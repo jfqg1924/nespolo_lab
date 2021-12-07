@@ -42,12 +42,16 @@ _Anfibios e invertebrados_
 
 
 
+Estación meteorologica de San Martin 
 
+∫La estación cuenta con una torre metereologíca que da información sobre diferentes variables ambientales del sector.
+
+* [CEHUMet - Est Exp San Martín](https://www.wunderground.com/dashboard/pws/IMARIQ4)
 
 
 #  <span style="color:green">  **Mision**
 
-La Estación Experimental Bosque San Martin (BSM) tiene como misión el estudio científico de los ecosistemas templados del sur de Chile (Bosque, humedal) y la formación de capital humano avanzado en el ámbito de las ciencias naturales, transformándose en una Estación Biológica de Referencia Internacional. Para ello, BSM promoverá el desarrollo de experimentos de largo plazo en temas prioritarios para la sociedad actual, tales como cambio climático, conservación, restauración, manejo y rehabilitación de fauna silvestre. BSM promoverá la formación de científicos de nivel pre- y posgrado, realizando cursos regulares para estudiantes de la Universidad Austral de Chile, así como cursos internacionales de
+La Estación Experimental Bosque San Martin (BSM) tiene como misión el estudio científico de los ecosistemas templados del sur de Chile (Bosque, humedal) y la formación de capital humano avanzado en el ámbito de la∫s ciencias naturales, transformándose en una Estación Biológica de Referencia Internacional. Para ello, BSM promoverá el desarrollo de experimentos de largo plazo en temas prioritarios para la sociedad actual, tales como cambio climático, conservación, restauración, manejo y rehabilitación de fauna silvestre. BSM promoverá la formación de científicos de nivel pre- y posgrado, realizando cursos regulares para estudiantes de la Universidad Austral de Chile, así como cursos internacionales de
 especialidad. BSM promoverá también actividades de educación ambiental a nivel comunitario y universitario, el mantenimiento de repositorios de biodiversidad y recursos genéticos. En todos estos ámbitos de acción, BSM incorporará la dimensión socioecológica del desarrollo sustentable, haciendo eco del lema UACh “Conocimiento y Naturaleza”, y transformando a nuestra casa de estudios en un referente internacional en estudios de ecología y conservación de los ecosistemas templados.
 
 
