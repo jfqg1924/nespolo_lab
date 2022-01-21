@@ -23,24 +23,29 @@ Research Associate, Universidad Austral de Chile
 
 # Current Students
 - [Carlos Mejias		(Msc science mention Ecology, UACH)](https://www.researchgate.net/profile/Carlos-Mejias-3)
-- Claudia Pereira 	    (Veterinarian, UACH)
 - Isabella Peña Rocco			(Veterinarian, UACH)
 - Maite Villalobos Avedaño		(Veterinarian, UACH)
 - Constanza Torres Ulloa		(Veterinarian, UACH)
+- Current: Tamara Estay 				(Bs. Biology, UPC)
+- Current: Felipe Martín Ortiz Orellana		(Veterinarian, UACH)
+- Current: Francesca Nicole Cáceres		(Bs. Biology, UACH)
+- Current: María Isidora Camus Rojas		(Bs. Biology, UCHILE)
+
 
 
 # Past Students
 
 ## Undergraduate students
 - 2010:	Pablo Cortés 		(Bs. Biology, UACH)
-- 2012:	Andrea Bruning 	(Bs. Biology, UACH)
+- 2012:	Andrea Bruning 	    (Bs. Biology, UACH)
 - 2012: Carolina Contreras 	(Bs. Biology, UACH)
-- 2017:	Julio Figueroa 	(Bs. Biology, UACH)
-- 2019: Pablo Quintrel            (Ing. Biotechnology, USACH) 
-- 2020: Sebastian Flores         (Ing. Biotechnology, USACH) 
+- 2017:	Julio Figueroa 	    (Bs. Biology, UACH)
+- 2019: Pablo Quintrel      (Ing. Biotechnology, USACH) 
+- 2020: Sebastian Flores    (Ing. Biotechnology, USACH) 
 - 2020: Rodrigo Contreras 	(Veterinarian, UACH)
 - 2021: Paulina Gutiérrez   (Natural Resources Conservation Engineer, UACH) 
-- 2021:  Macarena Alvarado 	(Veterinarian, UACH)
+- 2021: Macarena Alvarado 	(Veterinarian, UACH)
+- 2021: Claudia Pereira 	(Veterinarian, UACH)
 
 
 ## Master 
