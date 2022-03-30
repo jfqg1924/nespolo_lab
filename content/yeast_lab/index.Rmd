@@ -11,7 +11,9 @@ output:
 
 El interés en la utilización comercial de levaduras nativas nace con el hallazgo de la población con mayor diversidad genética de *Saccharomyces eubayanus* del mundo, ubicada en los bosques patagónicos y sub-patagónicos Chilenos (Eizaguirre et al., 2018; Nespolo et al., 2020). Esta levadura, aislada por primera vez en la Patagonia Argentina, es el ancestro de *Saccharomyces pastorianus*, levadura híbrida utilizada en todo el mundo para la elaboración de cerveza lager desde el siglo XV (Libkind et al., 2011). *S. eubayanus* puede fermentar a bajas temperaturas (9 -- 15°C) a diferencia de Saccharomyces cerevisiae (18 -- 22°C) y por consecuencia, permite la elaboración de cerveza en estaciones frías, hito que sentó las bases para su producción moderna. Actualmente, la cerveza Lager, que se elabora con S. pastorianus representa el 96% del mercado mundial y proviene únicamente de 2 linajes de híbridos interespecíficos. Estos, al no reproducirse de forma sexual limitan la diversidad de sabores y aromas que se pueden obtener en este tipo de cervezas (Gibson & Liti, 2015). Gracias a su reproducción sexual, se generó una gran diversidad genética de S. eubayanus en su territorio nativo, lo cual lo sitúa como un microorganismo de alto interés científico y en la industria de los fermentados, particularmente para diversificar la experiencia sensorial en cervezas de fermentación a baja temperatura.
 
-![Dr Francisco Cubillos & Dr Roberto Nespolo](2_RN_FC.jpg){width="362"}
+*Dr Francisco Cubillos & Dr Roberto Nespolo*
+
+![](2_RN_FC.jpg){width="362"}
 
 Así, en 2017 un grupo de jóvenes investigadores de la Universidad de Santiago de Chile y de la Universidad Austral de Chile, colectaron muestras de corteza y suelo de árboles del género Nothofagus en variadas latitudes del territorio nacional, desde la Reserva Nacional Altos de Lircay en la Región de Maule hasta el Parque Natural Karukinka en la Isla de Tierra del Fuego, Región de Magallanes, para luego evaluar su desempeño en la fermentación de mostos de cerveza, vino e hidromiel (Mardones et al., 2020; Nespolo et al., 2020). Los aislados con mejor rendimiento se evolucionaron experimentalmente a través de selección artificial y se obtuvo cepas estables con características de interés comercial, con aromas y sabores palatables y atractivos, demostrando así, su potencial en la diversificación de la industria cervecera (Urbina et al., 2020).
 
@@ -23,7 +25,7 @@ De esta forma, se desarrolló ***S. eubayanus CL5.1***, la primera cepa nativa v
 
 Además de desarrollar una cerveza nativa, este proyecto desea vincular de forma directa a la academia y sus tecnologías para el análisis con la industria local, y mejorar los estándares de calidad y la forma en que hacemos cerveza, en búsqueda de un reconocimiento nacional e internacional.
 
-![](4_Ino%CC%81culo.jpeg){width="301"}
+![](4_Inoculo.png){width="293"}
 
 # <span style="color:green"> **Mision**
 
@@ -71,7 +73,7 @@ Compromiso con nuestra biodiversidad, la innovación biotecnológica y vinculaci
 
 </center>
 
-![](9_Chelas_Ri%CC%81o_Valdivia.png){width="275"}
+![](9_Chelas.png){width="275"}
 
 ## **Referencias**
 
