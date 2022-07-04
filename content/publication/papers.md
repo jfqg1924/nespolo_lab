@@ -148,6 +148,8 @@ Journal of Insect Physiology 57: 986-994.
 
 # Chapter Book
 
+
+- 6. **RF NESPOLO**, SÁENZ-AGUDELO, P., MEJÍAS, C., QUINTERO-GALVIS, J.F., PEÑA, I., SABAT, P., SÁNCHEZ-HERNÁNDEZ, J.C., GUROVICH, Y. **2022**. **Chapter 5** :The Physiological Ecology of the Enigmatic Colocolo Opossum, the Monito del Monte (genus *Dromiciops*), and Its Role as a Bioindicator of the Broadleaf Biome, in: Larramendy, M.L., Liwszyc, G. (Eds.), *Marsupial and Placental Mammal Species in Environmental Risk Assessment Strategies*. Royal Society of Chemistry. pp. 81–111. doi: https://doi.org/10.1039/9781839163470-00081
 - 5. SOTO-GAMBOA M, LAGOS N, QUIROZ E, JARAMILLO E, **RF NESPOLO**, CASANOVA-KATNY A (2007). On the causes of the disappearance of aquatic plant Egeria densa and black-necked swans in a Ramsar sanctuary: inappropriate statistical analyses, reduced scope of experimental design and the implausible chemical mechanisms proposed by Mulsow & Grandjean (2006). Ethics in Science and Environmental Politics 2007: 7-10.
 - 4. GUERRA, J., GAYOSO, J., SCHLATTER, J., **RF NESPOLO** (2005) Análisis de la biomasa de raíces en diferentes tipos de bosques. Avances en la evaluación de Pinus radiata en Chile. Bosque 26: 5-21.
 - 3. **RF NESPOLO**  (2003) Genética cuantitativa y microevolución the caracteres fisiológicos. En: “Fisiología Ecológica de plantas y animales en Sudamérica: estudios interdisciplinarios” (F. Bozinovic Ed.). Pp. 27-42. Ediciones Universidad Católica de Chile. Santiago, Chile.
