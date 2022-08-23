@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = 2021-10-20T00:00:00
+date = 2022-02-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "People"
@@ -22,14 +22,10 @@ Research Associate, Universidad Austral de Chile
 
 
 # Current Students
-- [Carlos Mejias		(Msc science mention Ecology, UACH)](https://www.researchgate.net/profile/Carlos-Mejias-3)
-- Isabella Peña Rocco			(Veterinarian, UACH)
-- Maite Villalobos Avedaño		(Veterinarian, UACH)
-- Constanza Torres Ulloa		(Veterinarian, UACH)
-- Current: Tamara Estay 				(Bs. Biology, UPC)
-- Current: Felipe Martín Ortiz Orellana		(Veterinarian, UACH)
-- Current: Francesca Nicole Cáceres		(Bs. Biology, UACH)
-- Current: María Isidora Camus Rojas		(Bs. Biology, UCHILE)
+- Tamara Estay 				(Bs. Biology, UPC)
+- Felipe Martín Ortiz Orellana		(Veterinarian, UACH)
+- Francesca Nicole Cáceres		(Bs. Biology, UACH)
+- María Isidora Camus Rojas		(Bs. Biology, UCHILE)
 
 
 
@@ -46,13 +42,15 @@ Research Associate, Universidad Austral de Chile
 - 2021: Paulina Gutiérrez   (Natural Resources Conservation Engineer, UACH) 
 - 2021: Macarena Alvarado 	(Veterinarian, UACH)
 - 2021: Claudia Pereira 	(Veterinarian, UACH)
+- 2022: Isabella Peña Rocco			(Veterinarian, UACH)
+- 2022: Maite Villalobos Avedaño		(Veterinarian, UACH)
 
 
 ## Master 
 - 2016: [Julian F. Quintero Galvis 	(Msc science mention Genetics, UACH)](https://julianquinterog.netlify.app/)
 - 2017:	Pedro Ratamal 		(Msc science mention Ecology, UACH)
 - 2018:	[Rocio Paleo 			(Msc science mention Genetics, UACH)](https://www.researchgate.net/profile/Rocio-Paleo-Lopez)
-
+- 2022: [Carlos Mejías		(Msc science mention Ecology, UACH)](https://www.researchgate.net/profile/Carlos-Mejias-3)
 
 ## Doctorate
 - 2008: [Paulina Artacho		(PhD in Systematics and Ecology, UACH)](https://scholar.google.com/citations?user=lZemS60AAAAJ&hl=es)
@@ -69,4 +67,4 @@ Research Associate, Universidad Austral de Chile
 
 - 2012: Paulina Artacho (funded by FONDECYT)
 - 2012: Marcela Franco (funded by FONDECYT)
-- 2011: [Luis Castañeda](https://sites.google.com/site/lecastane/)(funded by FONDECYT)
+- 2011: [Luis Castañeda](https://sites.google.com/site/lecastane/) (funded by FONDECYT)
