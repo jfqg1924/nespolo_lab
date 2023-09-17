@@ -24,8 +24,7 @@ Research Associate, Universidad Austral de Chile
 # Current Students
 - Felipe Martín Ortiz Orellana		(Veterinarian, UACH)
 - María Isidora Camus Rojas		(Bs. Biology, UCHILE)
-
-
+- Gabriela Narvaez (PhD in Ecology and Evolution, UACH)
 
 # Past Students
 
