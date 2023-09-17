@@ -22,9 +22,7 @@ Research Associate, Universidad Austral de Chile
 
 
 # Current Students
-- Tamara Estay 				(Bs. Biology, UPC)
 - Felipe Martín Ortiz Orellana		(Veterinarian, UACH)
-- Francesca Nicole Cáceres		(Bs. Biology, UACH)
 - María Isidora Camus Rojas		(Bs. Biology, UCHILE)
 
 
@@ -44,6 +42,7 @@ Research Associate, Universidad Austral de Chile
 - 2021: Claudia Pereira 	(Veterinarian, UACH)
 - 2022: Isabella Peña Rocco			(Veterinarian, UACH)
 - 2022: Maite Villalobos Avedaño		(Veterinarian, UACH)
+- 2023: Tamara Estay 				(Bs. Biology, UPC)
 
 
 ## Master 
