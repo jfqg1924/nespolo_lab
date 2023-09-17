@@ -1,0 +1,23 @@
+---
+title: "App physiology"
+summary: "Conservacion monito, proyecto casitas anideras"
+author: "Roberto Nespolo"
+date: "2021-10-01"
+# Header image (featured.png)
+image:
+  caption: "Image credit: Roberto Nespolo"
+  focal_point: "Smart"
+  alt_text: "The monito"
+tags: ["Dromiciops","monito del monte"]
+weight: 1
+
+
+---
+
+```{r echo=FALSE}
+runApp("app_model.R")
+```
+
+
+
+
