@@ -48,11 +48,11 @@ superuser: true
 title: Roberto F. Nespolo
 ---
 
-Nespolo is an ecophysiologist specializing in studies of adaptation to extreme environments in various organisms including mammals, insects, terrestrial mollusks, yeasts and recently, hibernating marsupials. He is a full professor at Universidad Austral de Chile. His research has since been continuously funded by competitive funds (Fondecyt regular, FIC-Regional, Rings, ECOS -Conicyt), and currently has a Fondecyt that ends in 2021 that addresses the adaptation to the environment and evolutionary biology of the endemic marsupial *Dromiciops gliroides* (mountain monkey). 
+Nespolo is an ecophysiologist specializing in studies of adaptation to extreme environments in various organisms including mammals, insects, terrestrial mollusks, yeasts and recently, hibernating marsupials. He is a full professor at Universidad Austral de Chile. His research has since been continuously funded by competitive funds (Fondecyt regular, FIC-Regional, Rings, ECOS -Conicyt, MILENIO), and currently has a Fondecyt that addresses the adaptation to the environment and evolutionary biology of the endemic marsupial *Dromiciops gliroides* (mountain monkey). 
 
 He also participates as an associate researcher at the BASAL-Conicyt CAPES center (PUC) and the Instituto Milenio iBio (PUC), and is co-investigator
 in another 4 regular Fondecyt that address various problems of adaptation and acclimatization of microorganisms, plants and
 animals to changing environments. He directs the experimental evolution laboratory of the Institute of Environmental and Evolutionary
-Sciences (UACh). Currently he is working on molecular and physiological aspects of adaptation to climate change using the hibernating marsupial *Dromiciops gliroides* ("monito del monte") as a biological model (Fondecyt), in addition to having an applied line of native yeast genetics with potential for craft brewery ( FIC).
+Sciences (UACh). Currently he is working on molecular and physiological aspects of adaptation to climate change using the hibernating marsupial *Dromiciops gliroides* ("monito del monte") as a biological model (Fondecyt), in addition to having an applied line of native yeast genetics with potential for craft brewery (FIC).
 
 
