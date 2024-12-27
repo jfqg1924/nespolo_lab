@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = 2022-12-20T00:00:00
+date = 2024-12-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Publications"
@@ -17,6 +17,19 @@ weight = 60
 
 # Journal Articles
 
+
+- 146.	CORVALAN, B., ALVAREZ-VERGARA, F., LANDAETA, D., RAMIREZ-OTAROLA, N., SANCHEZ-HERNANDEZ, J. C., MALDONADO, K., **NESPOLO, R. F.**, NEWSOME, S. D., & SABAT, P. (2025). Impacts of an organophosphate pesticide and water restriction on physiology and immunity in the passerine Zonotrichia capensis. Comparative Biochemistry and Physiology Part C: Toxicology and Pharmacology, 288, 110076. https://doi.org/10.1016/j.cbpc.2024.110076
+- 145.	QUINTERO‐GALVIS, J.F., SAENZ‐AGUDELO, P., D’ELÍA, G. & **NESPOLO, R. F.** (2024). Local adaptation of Dromiciops marsupials (Microbiotheriidae) from southern South America: Implications for species management facing climate change. Ecology and Evolution. 14: 1–18. https://doi.org/10.1002/ece3.70355.
+- 144.	**NESPOLO, R. F.**, QUINTERO-GALVIS, J. F., FONTÚRBEL, F. E., CUBILLOS, F. A., VIANNA, J. A., MORENO, P., REZENDE, E. L., & BOZINOVIC, F. F. (2024). Global warming and population persistence in a hibernating marsupial. Proceedings of the Royal Society B, 291(2025). 6–13. https://doi.org/10.1098/rspb.2024.0266
+- 143.	PEÑA, T. A., VILLARREAL, P., AGIER, N., URBINA, K., VILLARROEL, C. A., **NESPOLO, R. F.**, & CUBILLOS, F. A. (2024). An integrative taxonomy approach reveals Saccharomyces chiloensis sp. nov. as a newly discovered species from Coastal Patagonia. PLoS Genetics, 20(9), 1–24. https://doi.org/10.1371/journal.pgen.1011396
+- 142.	MOLINET, J., NAVARRETE, J. P., VILLARROEL, C. A., VILLARREAL, P., SANDOVAL, F. I.,**NESPOLO, R. F.**, STELKENS, R., & CUBILLOS, F. A. (2024). Wild Patagonian yeast improve the evolutionary potential of novel interspecific hybrid strains for Lager brewing. PLoS Genetics, 20(6), 1–27. https://doi.org/10.1371/journal.pgen.1011154
+- 141.	SAONA, L.A., VILLAFAÑE, P.G., CARRIZO, D., CÓNSOLE GONELLA, C., NÉSPOLO, R.F., FARÍAS, M.E., (2024). Geomicrobiological characterization of the evaporitic ecosystem in the hypersaline lake Laguna Verde (Andean Puna, Northwestern Argentina). Ecology and Evolution. 14, 1–17. https://doi.org/10.1002/ece3.10931
+- 140.	VILLARREAL, P., O’DONNELL, S., AGIER, N., MUÑOZ-GUZMAN, F., BENAVIDES-PARRA, J., URBINA, K., PEÑA, T.A., SOLOMON, M., **NESPOLO, R. F.**, FISCHER, G., VARELA, C., CUBILLOS, F.A., 2024. Domestication signatures in the non-conventional yeast Lachancea cidri. mSystems. https://doi.org/10.1128/msystems.9-1058
+- 139.	ABARZÚA, T., CAMUS, I., ORTIZ, F., ÑUNQUE, A., CUBILLOS, F.A., SABAT, P., N**NESPOLO, R. F.**. (2023). Modeling heterothermic fitness landscapes in a marsupial hibernator using changes in body composition. Oecologia. 203: 79–93. https://doi.org/10.1007/s00442-023-05452-4
+- 138.	PELUSO, L., BROITMAN, B.R., LARDIES, M.A., **NESPOLO, R. F.** & SAENZ-AGUDELO, P. (2023). Comparative population genetics of congeneric limpets across a biogeographic transition zone reveals common patterns of genetic structure and demographic history. Molecular Ecology 32: 3812–3825. doi: 10.1111/mec.16978
+- 137.	BREEDON, S.A., VARMA, A., QUINTERO‐GALVIS, J.F., GAITÁN‐ESPITIA, J.D., MEJÍAS, C., NESPOLO, R.F., & STOREY K.B. (2023). Torpor‐responsive microRNAs in the heart of the Monito del monte, Dromiciops gliroides. BioFactors. 1–13. https://doi.org/10.1002/biof.1976
+- 136.	NAVARRETE, L., LÜBCKER, N., ALVAREZ, F., **NESPOLO, R. F.**, SANCHEZ-HERNANDEZ, J. C., MALDONADO, K., SHARP, Z. D., WHITEMAN, J. P., NEWSOME, S. D., & SABAT, P. (2023). A multi-isotope approach reveals seasonal variation in the reliance on marine resources, production of metabolic water, and ingestion of seawater by two species of coastal passerine to maintain water balance.  Frontiers in Ecology and Evolution. 11 6. 1120271. https://doi.org/10.3389/fevo.2023.1120271
+- 135.	FRÊNE, CRISTIÁN , JUAN J. ARMESTO; **NESPOLO, R. F.**, AURORA GAXIOLA; SERGIO A. NAVARRETE; ALEJANDRA TRONCOSO; ARIEL MUÑOZ; LUIS J. CORCUERA  (2023). Chilean long-term Socio-Ecological Research Network: progresses and challenges towards improving stewardship of unique ecosystems.  Revista Chilena de Historia Natural. 96. e00640-22. https://doi.org/10.1186/s40693-023-00114-4
 - 134.	MOLINET J., EIZAGUIRRE J., QUINTREL P., BELLORA N., VILLARREAL, P., **NESPOLO, R. F.**, CUBILLOS, F.A., (2022). Natural Variation in Diauxic Shift between Patagonian Saccharomyces eubayanus Strains.  Msystems. 7. 6. e00640-22. https://doi.org/10.1128/msystems.00640-22
 - 133.	**NESPOLO, R. F.**, PEÑA I., MEJIAS, C., ÑUNQUE A., ALTAMARIANO T., & BOZINOVIC, F. (2022). Communal nesting is the optimal strategy for heat conservation in a social marsupial: lessons from biophysical models. Journal of Experimental Biology. 225. 22. jeb244606. https://doi.org/10.1242/jeb.244606
 - 132.	**NESPOLO, R. F.**, MEJIAS, C., & BOZINOVIC, F. (2022). Isometric scaling of hibernation: when trees do not let the forest be seen. Proceedings of the Royal Society B. 289. 1984. https://doi.org/10.1098/rspb.2022.1719
