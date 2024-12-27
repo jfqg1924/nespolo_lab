@@ -22,9 +22,11 @@ Research Associate, Universidad Austral de Chile
 
 
 # Current Students
-- Felipe Martín Ortiz Orellana		(Veterinarian, UACH)
-- María Isidora Camus Rojas		(Bs. Biology, UCHILE)
-- Gabriela Narvaez (PhD in Ecology and Evolution, UACH)
+- Juan Pablo Bravo Salazar	(Natural Resources Conservation Engineer, UACH) 
+- María Isidora Camus Rojas	(Msc science mention Ecology, UACH)
+- Cristian Cortes Parra		(Msc science mention Ecology, UACH)
+- Kamila Urbina Hillmer 	(Msc science mention Genetics, UACH)
+
 
 # Past Students
 
@@ -42,6 +44,8 @@ Research Associate, Universidad Austral de Chile
 - 2022: Isabella Peña Rocco			(Veterinarian, UACH)
 - 2022: Maite Villalobos Avedaño		(Veterinarian, UACH)
 - 2023: Tamara Estay 				(Bs. Biology, UPC)
+- 2023: María Isidora Camus Rojas (Veterinarian, UCHILE)
+- 2024: Felipe Martín Ortiz Orellana	(Veterinarian, UACH)
 
 
 ## Master 
