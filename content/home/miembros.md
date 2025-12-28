@@ -23,9 +23,8 @@ Research Associate, Universidad Austral de Chile
 
 # Current Students
 - Juan Pablo Bravo Salazar	(Natural Resources Conservation Engineer, UACH) 
-- María Isidora Camus Rojas	(Msc science mention Ecology, UACH)
 - Cristian Cortes Parra		(Msc science mention Ecology, UACH)
-- Kamila Urbina Hillmer 	(Msc science mention Genetics, UACH)
+
 
 
 # Past Students
@@ -53,6 +52,8 @@ Research Associate, Universidad Austral de Chile
 - 2017:	Pedro Ratamal 		(Msc science mention Ecology, UACH)
 - 2018:	[Rocio Paleo 			(Msc science mention Genetics, UACH)](https://www.researchgate.net/profile/Rocio-Paleo-Lopez)
 - 2022: [Carlos Mejías		(Msc science mention Ecology, UACH)](https://www.researchgate.net/profile/Carlos-Mejias-3)
+- 2025: [María Isidora Camus Rojas	(Msc science mention Ecology, UACH)](https://www.researchgate.net/profile/Isidora-Camus)
+- 2025: Kamila Urbina Hillmer 	(Msc science mention Genetics, UACH)
 
 ## Doctorate
 - 2008: [Paulina Artacho		(PhD in Systematics and Ecology, UACH)](https://scholar.google.com/citations?user=lZemS60AAAAJ&hl=es)
