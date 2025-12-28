@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = 2024-12-20T00:00:00
+date = 2025-12-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "People"
@@ -24,6 +24,9 @@ Research Associate, Universidad Austral de Chile
 # Current Students
 - Juan Pablo Bravo Salazar	(Natural Resources Conservation Engineer, UACH) 
 - Cristian Cortes Parra		(Msc science mention Ecology, UACH)
+- Carla Andrea Toledo González	(Bs. Biology, UACH) 
+- Andrea Yanella Huichalaf Alvarado	(Bs. Biology, UACH) 
+- Mónica Belén Velásquez Longón	(Bs. Biology, UACH) 
 
 
 
