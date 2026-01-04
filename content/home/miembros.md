@@ -17,9 +17,12 @@ weight = 30
 
 # Principal Investigator
 
-* [Roberto Nespolo](http://icaev.cl/academicos/roberto-nespolo/) 
-Research Associate, Universidad Austral de Chile 
+* [Roberto Nespolo](https://www.postgradociencias.uach.cl/academicos-doc-ecologia-y-evolucion/) 
+Full Professor, Universidad Austral de Chile. 
 
+# Current Research assistants
+- Diego M. Vera R. (Biochemist, UACH)
+- [María Isidora Camus Rojas	(Msc science mention Ecology, UACH)](https://www.researchgate.net/profile/Isidora-Camus)
 
 # Current Students
 - Juan Pablo Bravo Salazar	(Natural Resources Conservation Engineer, UACH) 
@@ -27,8 +30,6 @@ Research Associate, Universidad Austral de Chile
 - Carla Andrea Toledo González	(Bs. Biology, UACH) 
 - Andrea Yanella Huichalaf Alvarado	(Bs. Biology, UACH) 
 - Mónica Belén Velásquez Longón	(Bs. Biology, UACH) 
-
-
 
 # Past Students
 
@@ -74,3 +75,5 @@ Research Associate, Universidad Austral de Chile
 - 2012: Paulina Artacho (funded by FONDECYT)
 - 2012: Marcela Franco (funded by FONDECYT)
 - 2011: [Luis Castañeda](https://sites.google.com/site/lecastane/) (funded by FONDECYT)
+
+

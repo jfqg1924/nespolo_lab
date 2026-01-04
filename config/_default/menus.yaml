@@ -16,9 +16,9 @@ main:
   - name: San Martin 
     url: '/san_martin/'
     weight: 50
-  - name: LIC - Austral 
-    url: '/yeast_lab/'
-    weight: 60    
+  #- name: LIC - Austral 
+  #  url: '/yeast_lab/'
+ #  weight: 60    
   - name: LiLi 
     url: 'https://nucleolili.cl/'
     weight: 70       
