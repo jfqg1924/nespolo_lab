@@ -3,10 +3,10 @@ bio:
 education:
   courses:
   - course: PhD in Biological Sciences, Ecology
-    institution: Pontificia Universidad Católica de Chile, Chile 
+    institution: Pontificia Universidad Católica de Chile, Chile. 
     year: 2002
   - course: Biologist
-    institution: Universidad de Chile, Chile
+    institution: Universidad de Chile, Chile.
     year: 1996
 email: ""
 highlight_name: false
@@ -18,7 +18,7 @@ interests:
 
 organizations:
 - name: Universidad Austral de Chile, ICAEV
-  url: http://icaev.cl/
+  url: https://www.postgradociencias.uach.cl/academicos-doc-ecologia-y-evolucion/
 role: PhD
 
 social:
